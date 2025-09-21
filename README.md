@@ -61,11 +61,12 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+![WhatsApp Image 2025-09-22 at 00 40 20_475af0bf](https://github.com/user-attachments/assets/9ace7ba6-e6d6-4214-a3c0-797206d0daa1)
 
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
+<img width="646" height="450" alt="Screenshot 2025-09-22 002831" src="https://github.com/user-attachments/assets/af18c213-be3a-483b-902d-85790cb46f2b" />
 
 ## 2. SUBTRACTION
 
@@ -161,11 +162,13 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+![WhatsApp Image 2025-09-22 at 00 40 20_2eca1f3f](https://github.com/user-attachments/assets/83c6ae25-c119-4f1c-a25e-ce3295776145)
 
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+
+<img width="652" height="442" alt="Screenshot 2025-09-22 003238" src="https://github.com/user-attachments/assets/000ae806-d419-4283-a5b6-31152e255c20" />
 
 ## 4. DIVISION
 
@@ -205,12 +208,12 @@ END
 |                         |                          |
 
 #### Manual Calculations
-
-(Add your calculation here)
+![WhatsApp Image 2025-09-22 at 00 39 57_9190dc43](https://github.com/user-attachments/assets/f603f590-b2b0-4fe9-8cba-2852cc3764c6)
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
 
+<img width="639" height="433" alt="Screenshot 2025-09-22 003506" src="https://github.com/user-attachments/assets/b1dbeb5e-042f-43b9-b190-d8e0530b166e" />
 
 
 ## RESULT
