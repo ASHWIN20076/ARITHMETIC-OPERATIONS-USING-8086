@@ -25,11 +25,8 @@ To write and execute Assembly Language Programs to perform arithmetic operations
 6. Add value in memory with accumulator.
 7. Store result.
 8. Stop.
-
-
 ## FLOW CHART
 <img width="707" height="1024" alt="image" src="https://github.com/user-attachments/assets/b5a7062d-e294-47cd-9683-a40de25e82de" />
-
 
 #### Program
 
@@ -60,16 +57,12 @@ END
 |                         |                          |
 
 #### Manual Calculations
-
 ![WhatsApp Image 2025-09-22 at 00 40 20_475af0bf](https://github.com/user-attachments/assets/9ace7ba6-e6d6-4214-a3c0-797206d0daa1)
-
 ---
-
 ## OUTPUT IMAGE FROM MASM SOFTWARE
 <img width="646" height="450" alt="Screenshot 2025-09-22 002831" src="https://github.com/user-attachments/assets/af18c213-be3a-483b-902d-85790cb46f2b" />
 
 ## 2. SUBTRACTION
-
 #### Algorithm
 
 1. Initialize memory and store 1st data.
@@ -77,11 +70,8 @@ END
 3. Move 2nd data to accumulator.
 4. Subtract memory content.
 5. Store result.
-
 ## FLOWCHART
-
 <img width="578" height="797" alt="image" src="https://github.com/user-attachments/assets/564c3c7a-33ce-4a1c-8920-beb5c24b9b47" />
-
 
 #### Program
 ```asm
@@ -103,8 +93,6 @@ INT 21H
 CODE ENDS
 END
 ```
-
-
 #### Output Table
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
@@ -113,7 +101,6 @@ END
 
 #### Manual Calculations
 ![WhatsApp Image 2025-09-22 at 07 45 27_71b227da](https://github.com/user-attachments/assets/f702d7ab-1a0c-4641-972d-907e975ab0c9)
-
 ---
 ## OUTPUT SCREEN FROM MASM SOFTWARE
 <img width="651" height="443" alt="Screenshot 2025-09-22 074418" src="https://github.com/user-attachments/assets/2bfe8193-d026-4ac9-9e01-b432c0c5765b" />
@@ -127,14 +114,10 @@ END
 3. Multiply.
 4. Store result.
 
-##FLOWCHART
-
+## FLOWCHART
 <img width="569" height="906" alt="image" src="https://github.com/user-attachments/assets/88be88ff-2896-4a88-b73d-84ccffd2fcf9" />
 
-
-
 #### Program
-
 ```asm
 CODE SEGMENT
 ASSUME CS: CODE, DS: CODE
@@ -151,7 +134,6 @@ INT 21H
 CODE ENDS
 END
 ```
-
 #### Output Table
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
@@ -159,13 +141,9 @@ END
 |                         |                          |
 
 #### Manual Calculations
-
 ![WhatsApp Image 2025-09-22 at 00 40 20_2eca1f3f](https://github.com/user-attachments/assets/83c6ae25-c119-4f1c-a25e-ce3295776145)
-
 ---
-
 ## OUTPUT SCREEN FROM MASM SOFTWARE
-
 <img width="652" height="442" alt="Screenshot 2025-09-22 003238" src="https://github.com/user-attachments/assets/000ae806-d419-4283-a5b6-31152e255c20" />
 
 ## 4. DIVISION
@@ -176,12 +154,10 @@ END
 2. Perform division.
 3. Store result.
 
-   ## FLOWCHART
+## FLOWCHART
 <img width="1065" height="802" alt="image" src="https://github.com/user-attachments/assets/25b4a483-0d42-494b-8639-1af3ea17191b" />
 
-
 #### Program
-
 ```asm
 CODE SEGMENT
 ASSUME CS: CODE, DS: CODE
@@ -198,7 +174,6 @@ INT 21H
 CODE ENDS
 END
 ```
-
 #### Output Table
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
@@ -207,12 +182,9 @@ END
 
 #### Manual Calculations
 ![WhatsApp Image 2025-09-22 at 00 39 57_9190dc43](https://github.com/user-attachments/assets/f603f590-b2b0-4fe9-8cba-2852cc3764c6)
-
 ---
 ## OUTPUT FROM MASM SOFTWARE
-
 <img width="639" height="433" alt="Screenshot 2025-09-22 003506" src="https://github.com/user-attachments/assets/b1dbeb5e-042f-43b9-b190-d8e0530b166e" />
-
 
 ## RESULT
 
