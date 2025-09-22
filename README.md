@@ -112,13 +112,11 @@ END
 |                         |                          |
 
 #### Manual Calculations
-
-(Add your calculation here)
+![WhatsApp Image 2025-09-22 at 07 45 27_71b227da](https://github.com/user-attachments/assets/f702d7ab-1a0c-4641-972d-907e975ab0c9)
 
 ---
-
-
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="651" height="443" alt="Screenshot 2025-09-22 074418" src="https://github.com/user-attachments/assets/2bfe8193-d026-4ac9-9e01-b432c0c5765b" />
 
 ## 3. MULTIPLICATION
 
